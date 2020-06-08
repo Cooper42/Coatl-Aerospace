@@ -1,7 +1,18 @@
-A fork of Coatl Aerospace by akron.
-
-Limited to alternate models for DMagic science parts.
-
-[Original mod](https://github.com/raveloda/Coatl-Aerospace/)  
-
-[Original mod's official Forum thread](http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-probesplus-dev-thread-v0142-beta-102316/)
+![Coatl Aerospace](http://imgur.com/Hrhr9ku.png)  
+This is a Kerbal Space Program probe part expansion pack inspired by real missions from the mid-1960s to now. 
+  
+## How to Download  
+  
+### Latest Public Release  
+[Download the latest public release here](https://github.com/raveloda/Coatl-Aerospace/releases/)  
+  
+### Latest Developer Release  
+The Github page is regulary updated with fixes and parts in progress between public releases. This is the definite latest version of the mod. To participate in testing or to try out the newest stuff, click the green "Clone or Download" button at the top-right of this page. Choose the "Download ZIP" option.  
+  
+![Download Button](http://imgur.com/PQW2Y2G.png)  
+  
+Unzip the downloaded files and copy all the contents of the "GameData" folder (Not the GameData folder itself) to you KSP Install Directory\GameData folder.  
+  
+Please be sure to drop by the [Mod's official Forum thread](http://forum.kerbalspaceprogram.com/index.php?/topic/131145-wip-coatl-aerospace-probesplus-dev-thread-v0142-beta-102316/) to leave me some feedback, suggestions or just a like and a chat. If you spot a bug or problem while play testing, you can let me know by clicking the "Issues" tab at the top of this page and then clicking the green "New Issue" button. Thank you for checking out my mod!  
+  
+~Cheers!
